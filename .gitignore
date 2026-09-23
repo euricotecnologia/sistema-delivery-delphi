@@ -1,0 +1,31 @@
+.DS_Store
+Thumbs.db
+
+# Delphi local/build artifacts
+*.dproj.local
+*.identcache
+*.stat
+*.vlb
+*.iip
+Win32/
+Win64/
+__history/
+
+# Local databases and credentials
+db.db
+config.ini
+*.local.ini
+
+# Runtime-generated data
+cache/
+logs/
+LogTinject/
+TInjectAnexos/
+User Data/
+
+# Compiled and third-party runtime files
+*.exe
+*.dll
+*.pak
+*.bin
+
